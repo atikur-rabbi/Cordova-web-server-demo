@@ -2,4 +2,4 @@
 apps.bat
 node_modules/
 platforms/
-
+package-lock.json

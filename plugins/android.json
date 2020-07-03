@@ -7,10 +7,10 @@
     "files": {}
   },
   "installed_plugins": {
-    "cordova-plugin-whitelist": {
+    "com.rjfun.cordova.httpd": {
       "PACKAGE_NAME": "io.cordova.hellocordova"
     },
-    "com.rjfun.cordova.httpd": {
+    "cordova-plugin-whitelist": {
       "PACKAGE_NAME": "io.cordova.hellocordova"
     }
   },
